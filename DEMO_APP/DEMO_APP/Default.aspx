@@ -15,6 +15,8 @@
             </p>
         </div>
     </section>
+    <hr />
+    HI THIS
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h3>We suggest the following:</h3>
